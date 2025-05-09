@@ -1,3 +1,9 @@
+---
+layout: default
+title: Privacy Policy
+---
+
+
 # Privacy Policy for Space Dash
 
 DeePee Technology X built the Space Dash game as an Ad Supported app. This SERVICE is provided by DeePee Technology X at no cost and is intended for use as is.
